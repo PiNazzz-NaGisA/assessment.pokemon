@@ -1,0 +1,22 @@
+body{
+  background-color: #1e90ff;
+  color: #ffffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button{
+  padding: 5px 20px;
+  color: #ffffff;
+  background-color:#000080;
+  border-style: none;
+}
+input{
+  height: 25px;
+}
+
+div.tweet {
+  /* display: none; */
+  text-align: center;
+}
+
